@@ -1,5 +1,4 @@
 # EMERGENCY-ALERT-SYSTEM_Using-Arduino
-Many highly advanced Bridge Monitoring systems are available to look upon the condition of the bridges The main aim of this system is to provide a rapid aid to the disaster hit victims with the help of proper coordination between the government organizations. The current system [EMERGENCY ALERT SYSTEM Using GSM and GPS] will give a real time response due to its effective means of communication with precise coordination describing the impact and alerting the commuters who are about to cross the bridge. And it also used in Patient Medical Emergency Alert System when patient feels any problem about his health condition he can come across the ultrasonic sensor send the message to doctor so that doctor can approach immediately . 
 
 # ABSTRACT
 This is a simple Emergency alert system using GSM module, ultrasonic and  Arduino. This is capable of alerting others from emergency through GSM Module. Similarly it can also be used to send an SMS.
