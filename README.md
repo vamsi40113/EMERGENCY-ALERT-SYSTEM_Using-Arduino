@@ -9,10 +9,6 @@ SIM800 has 68 SMT pads and provides all hardware interfaces between the module a
 # Required Components
 GSM Module SIM800/SIM900, Arduino UNO, ultrasonic Sensor, LCD Display, Connectiong wires, 9v baterry
 
-# Flow chart
-
-![image](https://user-images.githubusercontent.com/81632017/157478423-db347235-d7b4-4a2b-a90e-f7fd48e92661.png)
-
 # Connections
 
 Connect  the lcd pins to Arduino pins of 11,5,4,3,2 respectively. Connect the buzzer and mic with one of Arduino pins of 6,7 . then interface ultrasonic sensor of trigpin connected to Arduino pin of  9 and echo pin is input and then interface the GSM module with Arduino board by connecting the pins of 8 and 9 and GSM is connected with 12volts or 9 volts power. Dump the code into Arduino uno board and run the program . 
